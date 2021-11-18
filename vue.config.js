@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/surfing-shop/'
+  publicPath: './surfing-shop/'
 }
